@@ -1,0 +1,16 @@
+body{
+    border: solid 2px grey;
+    background-color: rgb(74, 71, 71);
+}
+
+.main-section{
+    text-align: center;
+    color: white;
+}
+
+#footer a{
+    color: green;
+}
+a{
+    color: green;
+}
